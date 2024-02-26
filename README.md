@@ -93,7 +93,7 @@ OS = ["Zorin", "Ubuntu", "BlackArch", "Nitrux", "Windows", "Elementary OS", "Kal
 ### LeetCode Stats :
 <div align="center">
 
-![https://https://leetcode.com/adityaseth_777/](https://stats.justsong.cn/api/leetcode/?username=adityaseth_777&theme=dark)
+<a href="https://leetcode.com/Aditya4195/"><img src="https://leetcard.jacoblin.cool/Aditya4195?ext=contest">
 
 </div>
 
