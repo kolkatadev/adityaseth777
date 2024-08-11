@@ -63,7 +63,7 @@ OS = ["Zorin", "Ubuntu", "BlackArch", "Nitrux", "Windows", "Elementary OS", "Kal
 <div align=center>
 
 <a href="https://www.linkedin.com/in/aditya-seth-270833233" alt="Aditya Seth | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
-<a href="https://instagram.com/codificador_anonimo?igshid=YmMyMTA2M2Y=" alt="codificador_anonimo | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
+<a href="https://instagram.com/codificador_anonimo=" alt="codificador_anonimo | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
 <a href="mailto:adityaseth.cse@gmail.com" alt="Aditya Seth | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png">
 <a href="https://wa.me//+919903342634" alt="Aditya Seth | WhatsApp"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
 <a href="https://medium.com/@adityaseth777" alt="Aditya Seth | Medium"><img width="48" height="48" src="https://img.icons8.com/arcade/48/000000/medium-logo.png" alt="medium-logo"/>
@@ -93,7 +93,7 @@ OS = ["Zorin", "Ubuntu", "BlackArch", "Nitrux", "Windows", "Elementary OS", "Kal
 ### LeetCode Stats :
 <div align="center">
 
-<a href="https://leetcode.com/Aditya4195/"><img src="https://leetcard.jacoblin.cool/Aditya4195?ext=contest">
+<a href="https://leetcode.com/AdityaSeth777/"><img src="https://leetcard.jacoblin.cool/AdityaSeth777?ext=contest">
 
 </div>
 
