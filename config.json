@@ -1,0 +1,67 @@
+{
+  "name": "Aditya Seth",
+  "username": "AdityaSeth777",
+  "website": "https://adityaseth.in",
+  "website_display": "www.adityaseth.in",
+  "greeting": "Hola a todos !",
+  "bio": {
+    "Name": "Aditya Seth",
+    "Interests": ["Coding", "Cryptography", "Problem Solving", "Graphic Editing", "Photography", "Exploring various OS :)"],
+    "Languages": ["C", "C++", "Python", "HTML", "CSS", "Kotlin"],
+    "OS": ["Zorin", "Ubuntu", "BlackArch", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ubuntu Unity", "Manjaro", "Arch"]
+  },
+  "spotify_uid": "setha4195",
+  "workspace_badges": [
+    { "label": "Windows", "value": "11_Pro", "logo": "Windows", "color": "0083DC" },
+    { "label": "Intel", "value": "i5_12th_Gen", "logo": "intel", "color": "0071C5" },
+    { "label": "RAM", "value": "8_GB", "logo_base64": "iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==", "color": "GREEN" },
+    { "label": "NVIDIA", "value": "GEFORCE_GTX_1650", "logo": "nvidia", "color": "76bc00" }
+  ],
+  "tech_stack": [
+    { "type": "color", "name": "c-programming" },
+    { "type": "color", "name": "c-plus-plus-logo" },
+    { "type": "color", "name": "python--v1" },
+    { "type": "color", "name": "kotlin" },
+    { "type": "color", "name": "heroku" },
+    { "type": "color", "name": "git" },
+    { "type": "color", "name": "linux--v1" },
+    { "type": "color", "name": "github--v1" },
+    { "type": "color", "name": "html-5--v1" },
+    { "type": "color", "name": "adobe-creative-cloud--v1" },
+    { "type": "color", "name": "adobe-photoshop--v1" }
+  ],
+  "social_links": [
+    { "url": "https://www.linkedin.com/in/aditya-seth-270833233", "alt": "Aditya Seth | LinkedIn", "icon_url": "https://img.icons8.com/fluent/48/000000/linkedin.png" },
+    { "url": "https://instagram.com/codificador_anonimo=", "alt": "codificador_anonimo | Instagram", "icon_url": "https://img.icons8.com/fluent/48/000000/instagram-new.png" },
+    { "url": "mailto:adityaseth.cse@gmail.com", "alt": "Aditya Seth | Gmail", "icon_url": "https://img.icons8.com/fluent/48/000000/gmail.png" },
+    { "url": "https://wa.me//+919903342634", "alt": "Aditya Seth | WhatsApp", "icon_url": "https://img.icons8.com/color/48/whatsapp--v1.png", "width": 48, "height": 48 },
+    { "url": "https://medium.com/@adityaseth777", "alt": "Aditya Seth | Medium", "icon_url": "https://img.icons8.com/arcade/48/000000/medium-logo.png", "width": 48, "height": 48 },
+    { "url": "https://twitter.com/AdityaS50607555", "alt": "Aditya Seth | Twitter", "icon_url": "https://img.icons8.com/fluency/48/twitter.png", "width": 48, "height": 48 },
+    { "url": "https://discordapp.com/users/Aditya Seth#4753", "alt": "Aditya Seth | Discord", "icon_url": "https://img.icons8.com/plasticine/50/000000/discord-logo.png" },
+    { "url": "https://www.hackerrank.com/adityaseth_cse", "alt": "Aditya Seth | HackerRank", "icon_url": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" },
+    { "url": "https://www.cloudskillsboost.google/public_profiles/b8eb9de8-382a-4ff8-9088-7ea496aac45d", "alt": "Aditya Seth | Google Cloud Skills", "icon_url": "https://img.icons8.com/fluency/48/000000/google-cloud.png" },
+    { "url": "https://www.quora.com/profile/Aditya-Seth-133?ch=10&oid=1734427191&share=5335f444&srid=hzXNBO&target_type=user", "alt": "Aditya Seth | Quora", "icon_url": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-shadow-tal-revivo.png" },
+    { "url": "https://auth.geeksforgeeks.org/user/adityaseth_777/", "alt": "Aditya Seth | GeeksforGeeks", "icon_url": "https://img.icons8.com/color/48/000000/GeeksforGeeks.png" }
+  ],
+  "os_badges": [
+    { "label": "Windows", "value": "10,_8.1,_7,_XP", "logo": "Windows", "color": "0083DC" },
+    { "label": "Gentoo", "value": "OS", "logo": "Gentoo", "color": "0F94D2" },
+    { "label": "Fedora", "value": "37", "logo": "Fedora", "color": "51A2DA" },
+    { "label": "Ubuntu", "value": "22.10_LTS", "logo": "Ubuntu", "color": "E95420" },
+    { "label": "Zorin_OS", "value": "16.2_Core", "logo": "Zorin", "color": "15A6F0" },
+    { "label": "Arch_Linux", "value": "2023.03.01", "logo": "ArchLinux", "color": "0F94D2" },
+    { "label": "Kali_Linux", "value": "2022.1", "logo": "KaliLinux", "color": "517E98" },
+    { "label": "Manjaro", "value": "22.0.5", "logo": "Manjaro", "color": "35BFA4" },
+    { "label": "Gentoo", "value": "OS", "logo": "Gnome", "color": "0F94D2" },
+    { "label": "Ubuntu_Unity", "value": "22.04.1", "logo": "Unity", "color": "9005D5" }
+  ],
+  "leetcode_username": "AdityaSeth777",
+  "stats": {
+    "github_stats_theme": "radical",
+    "github_stats_bg": "000000",
+    "github_stats_border": "808080",
+    "streak_theme": "highcontrast",
+    "top_langs_theme": "highcontrast",
+    "excluded_repos": ["adityaseth.github.io"]
+  }
+}
