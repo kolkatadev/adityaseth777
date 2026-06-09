@@ -4,10 +4,8 @@
 ## Click here to visit my website -> [(www.adityaseth.in)](https://adityaseth.in)
 
 ![ ](https://komarev.com/ghpvc/?username=AdityaSeth777&color=blue)
-</a>
 <a href="https://github.com/AdityaSeth777?tab=followers"><img src="https://img.shields.io/github/followers/AdityaSeth777?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href ="https://metrics.lecoq.io/insights/AdityaSeth777"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/></a>
-</p>
+<a href="https://metrics.lecoq.io/insights/AdityaSeth777"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/></a>
 
 
 ```python
@@ -64,15 +62,15 @@ OS = ["Zorin", "Ubuntu", "BlackArch", "Nitrux", "Windows", "Elementary OS", "Kal
 
 <a href="https://www.linkedin.com/in/aditya-seth-270833233" alt="Aditya Seth | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
 <a href="https://instagram.com/codificador_anonimo=" alt="codificador_anonimo | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
-<a href="mailto:adityaseth.cse@gmail.com" alt="Aditya Seth | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png">
-<a href="https://wa.me//+919903342634" alt="Aditya Seth | WhatsApp"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
-<a href="https://medium.com/@adityaseth777" alt="Aditya Seth | Medium"><img width="48" height="48" src="https://img.icons8.com/arcade/48/000000/medium-logo.png" alt="medium-logo"/>
-<a href="https://twitter.com/AdityaS50607555" alt="Aditya Seth | Twitter"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/>
-<a href="https://discordapp.com/users/Aditya Seth#4753" alt="Aditya Seth | Discord"><img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png">
-<a href="https://www.hackerrank.com/adityaseth_cse" alt="Aditya Seth | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png">
-<a href="https://www.cloudskillsboost.google/public_profiles/b8eb9de8-382a-4ff8-9088-7ea496aac45d" alt="Aditya Seth | Google Cloud Skills"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png">
-<a href="https://www.quora.com/profile/Aditya-Seth-133?ch=10&oid=1734427191&share=5335f444&srid=hzXNBO&target_type=user" alt="Aditya Seth | Quora"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-shadow-tal-revivo.png"/>
-<a href="https://auth.geeksforgeeks.org/user/adityaseth_777/" alt="Aditya Seth | GeeksforGeeks"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
+<a href="mailto:adityaseth.cse@gmail.com" alt="Aditya Seth | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"></a>
+<a href="https://wa.me//+919903342634" alt="Aditya Seth | WhatsApp"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png"/></a>
+<a href="https://medium.com/@adityaseth777" alt="Aditya Seth | Medium"><img width="48" height="48" src="https://img.icons8.com/arcade/48/000000/medium-logo.png" alt="medium-logo"/></a>
+<a href="https://twitter.com/AdityaS50607555" alt="Aditya Seth | Twitter"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/></a>
+<a href="https://discordapp.com/users/Aditya Seth#4753" alt="Aditya Seth | Discord"><img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png"></a>
+<a href="https://www.hackerrank.com/adityaseth_cse" alt="Aditya Seth | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/b8eb9de8-382a-4ff8-9088-7ea496aac45d" alt="Aditya Seth | Google Cloud Skills"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"></a>
+<a href="https://www.quora.com/profile/Aditya-Seth-133?ch=10&oid=1734427191&share=5335f444&srid=hzXNBO&target_type=user" alt="Aditya Seth | Quora"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-shadow-tal-revivo.png"/></a>
+<a href="https://auth.geeksforgeeks.org/user/adityaseth_777/" alt="Aditya Seth | GeeksforGeeks"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/></a>
 
 
   </div>
@@ -93,7 +91,7 @@ OS = ["Zorin", "Ubuntu", "BlackArch", "Nitrux", "Windows", "Elementary OS", "Kal
 ### LeetCode Stats :
 <div align="center">
 
-<a href="https://leetcode.com/AdityaSeth777/"><img src="https://leetcard.jacoblin.cool/AdityaSeth777?ext=contest">
+<a href="https://leetcode.com/AdityaSeth777/"><img src="https://leetcard.jacoblin.cool/AdityaSeth777?ext=contest"></a>
 
 </div>
 
