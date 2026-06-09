@@ -1,0 +1,35 @@
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.cert
+credentials.json
+service-account.json
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node (if added later)
+node_modules/
+npm-debug.log*
+
+# Python (if added later)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build artifacts
+dist/
+build/
+*.log
